@@ -1,0 +1,11 @@
+D:\Porg2 c#\MiProyecto0_Tarea4\proyecto.Domain\bin\Debug\net8.0\proyecto.Domain.deps.json
+D:\Porg2 c#\MiProyecto0_Tarea4\proyecto.Domain\bin\Debug\net8.0\proyecto.Domain.dll
+D:\Porg2 c#\MiProyecto0_Tarea4\proyecto.Domain\bin\Debug\net8.0\proyecto.Domain.pdb
+D:\Porg2 c#\MiProyecto0_Tarea4\proyecto.Domain\obj\Debug\net8.0\proyecto.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Porg2 c#\MiProyecto0_Tarea4\proyecto.Domain\obj\Debug\net8.0\proyecto.Domain.AssemblyInfoInputs.cache
+D:\Porg2 c#\MiProyecto0_Tarea4\proyecto.Domain\obj\Debug\net8.0\proyecto.Domain.AssemblyInfo.cs
+D:\Porg2 c#\MiProyecto0_Tarea4\proyecto.Domain\obj\Debug\net8.0\proyecto.Domain.csproj.CoreCompileInputs.cache
+D:\Porg2 c#\MiProyecto0_Tarea4\proyecto.Domain\obj\Debug\net8.0\proyecto.Domain.dll
+D:\Porg2 c#\MiProyecto0_Tarea4\proyecto.Domain\obj\Debug\net8.0\refint\proyecto.Domain.dll
+D:\Porg2 c#\MiProyecto0_Tarea4\proyecto.Domain\obj\Debug\net8.0\proyecto.Domain.pdb
+D:\Porg2 c#\MiProyecto0_Tarea4\proyecto.Domain\obj\Debug\net8.0\ref\proyecto.Domain.dll
