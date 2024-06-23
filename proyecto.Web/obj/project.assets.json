@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Porg2 c#\\MiProyecto0_Tarea4\\proyecto.Web\\proyecto.Web.csproj",
-      "projectName": "proyecto.Web",
-      "projectPath": "D:\\Porg2 c#\\MiProyecto0_Tarea4\\proyecto.Web\\proyecto.Web.csproj",
+      "projectUniqueName": "D:\\Porg2 c#\\MiProyecto0_Tarea5\\proyecto.Web\\Foundation.Web.csproj",
+      "projectName": "Foundation.Web",
+      "projectPath": "D:\\Porg2 c#\\MiProyecto0_Tarea5\\proyecto.Web\\Foundation.Web.csproj",
       "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-      "outputPath": "D:\\Porg2 c#\\MiProyecto0_Tarea4\\proyecto.Web\\obj\\",
+      "outputPath": "D:\\Porg2 c#\\MiProyecto0_Tarea5\\proyecto.Web\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",

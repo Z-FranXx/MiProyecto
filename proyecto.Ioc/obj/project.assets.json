@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Porg2 c#\\MiProyecto0_Tarea4\\proyecto.Ioc\\proyecto.Ioc.csproj",
-      "projectName": "proyecto.Ioc",
-      "projectPath": "D:\\Porg2 c#\\MiProyecto0_Tarea4\\proyecto.Ioc\\proyecto.Ioc.csproj",
+      "projectUniqueName": "D:\\Porg2 c#\\MiProyecto0_Tarea5\\proyecto.Ioc\\Foundation.IOC.csproj",
+      "projectName": "Foundation.IOC",
+      "projectPath": "D:\\Porg2 c#\\MiProyecto0_Tarea5\\proyecto.Ioc\\Foundation.IOC.csproj",
       "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-      "outputPath": "D:\\Porg2 c#\\MiProyecto0_Tarea4\\proyecto.Ioc\\obj\\",
+      "outputPath": "D:\\Porg2 c#\\MiProyecto0_Tarea5\\proyecto.Ioc\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",

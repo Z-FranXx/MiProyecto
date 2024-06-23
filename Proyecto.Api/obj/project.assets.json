@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Porg2 c#\\MiProyecto0_Tarea4\\Proyecto.Api\\Proyecto.Api.csproj",
-      "projectName": "Proyecto.Api",
-      "projectPath": "D:\\Porg2 c#\\MiProyecto0_Tarea4\\Proyecto.Api\\Proyecto.Api.csproj",
+      "projectUniqueName": "D:\\Porg2 c#\\MiProyecto0_Tarea5\\Proyecto.Api\\Foundation.Api.csproj",
+      "projectName": "Foundation.Api",
+      "projectPath": "D:\\Porg2 c#\\MiProyecto0_Tarea5\\Proyecto.Api\\Foundation.Api.csproj",
       "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-      "outputPath": "D:\\Porg2 c#\\MiProyecto0_Tarea4\\Proyecto.Api\\obj\\",
+      "outputPath": "D:\\Porg2 c#\\MiProyecto0_Tarea5\\Proyecto.Api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",

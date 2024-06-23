@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Porg2 c#\\MiProyecto0_Tarea4\\proyecto.Domain\\proyecto.Domain.csproj": {}
+    "D:\\Porg2 c#\\MiProyecto0_Tarea5\\proyecto.Domain\\proyecto.Domain.csproj": {}
   },
   "projects": {
-    "D:\\Porg2 c#\\MiProyecto0_Tarea4\\proyecto.Domain\\proyecto.Domain.csproj": {
+    "D:\\Porg2 c#\\MiProyecto0_Tarea5\\proyecto.Domain\\proyecto.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Porg2 c#\\MiProyecto0_Tarea4\\proyecto.Domain\\proyecto.Domain.csproj",
+        "projectUniqueName": "D:\\Porg2 c#\\MiProyecto0_Tarea5\\proyecto.Domain\\proyecto.Domain.csproj",
         "projectName": "proyecto.Domain",
-        "projectPath": "D:\\Porg2 c#\\MiProyecto0_Tarea4\\proyecto.Domain\\proyecto.Domain.csproj",
+        "projectPath": "D:\\Porg2 c#\\MiProyecto0_Tarea5\\proyecto.Domain\\proyecto.Domain.csproj",
         "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-        "outputPath": "D:\\Porg2 c#\\MiProyecto0_Tarea4\\proyecto.Domain\\obj\\",
+        "outputPath": "D:\\Porg2 c#\\MiProyecto0_Tarea5\\proyecto.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",

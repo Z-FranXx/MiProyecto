@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Porg2 c#\\MiProyecto0_Tarea4\\proyecto.Infrastructure\\proyecto.Infrastructure.csproj",
-      "projectName": "proyecto.Infrastructure",
-      "projectPath": "D:\\Porg2 c#\\MiProyecto0_Tarea4\\proyecto.Infrastructure\\proyecto.Infrastructure.csproj",
+      "projectUniqueName": "D:\\Porg2 c#\\MiProyecto0_Tarea5\\proyecto.Infrastructure\\Foundation.Infrastructure.csproj",
+      "projectName": "Foundation.Infrastructure",
+      "projectPath": "D:\\Porg2 c#\\MiProyecto0_Tarea5\\proyecto.Infrastructure\\Foundation.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-      "outputPath": "D:\\Porg2 c#\\MiProyecto0_Tarea4\\proyecto.Infrastructure\\obj\\",
+      "outputPath": "D:\\Porg2 c#\\MiProyecto0_Tarea5\\proyecto.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",

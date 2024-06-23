@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Porg2 c#\\MiProyecto0_Tarea4\\proyecto.Ioc\\proyecto.Ioc.csproj": {}
+    "D:\\Porg2 c#\\MiProyecto0_Tarea5\\proyecto.Ioc\\proyecto.Ioc.csproj": {}
   },
   "projects": {
-    "D:\\Porg2 c#\\MiProyecto0_Tarea4\\proyecto.Ioc\\proyecto.Ioc.csproj": {
+    "D:\\Porg2 c#\\MiProyecto0_Tarea5\\proyecto.Ioc\\proyecto.Ioc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Porg2 c#\\MiProyecto0_Tarea4\\proyecto.Ioc\\proyecto.Ioc.csproj",
+        "projectUniqueName": "D:\\Porg2 c#\\MiProyecto0_Tarea5\\proyecto.Ioc\\proyecto.Ioc.csproj",
         "projectName": "proyecto.Ioc",
-        "projectPath": "D:\\Porg2 c#\\MiProyecto0_Tarea4\\proyecto.Ioc\\proyecto.Ioc.csproj",
+        "projectPath": "D:\\Porg2 c#\\MiProyecto0_Tarea5\\proyecto.Ioc\\proyecto.Ioc.csproj",
         "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-        "outputPath": "D:\\Porg2 c#\\MiProyecto0_Tarea4\\proyecto.Ioc\\obj\\",
+        "outputPath": "D:\\Porg2 c#\\MiProyecto0_Tarea5\\proyecto.Ioc\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
