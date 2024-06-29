@@ -1,0 +1,6 @@
+D:\Porg2 c#\MiProyecto0_Tarea5\proyecto.Infrastructure\obj\Debug\net8.0\Foundation.Infrastructure.csproj.AssemblyReference.cache
+D:\Porg2 c#\MiProyecto0_Tarea5\proyecto.Infrastructure\obj\Debug\net8.0\Foundation.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Porg2 c#\MiProyecto0_Tarea5\proyecto.Infrastructure\obj\Debug\net8.0\Foundation.Infrastructure.AssemblyInfoInputs.cache
+D:\Porg2 c#\MiProyecto0_Tarea5\proyecto.Infrastructure\obj\Debug\net8.0\Foundation.Infrastructure.AssemblyInfo.cs
+D:\Porg2 c#\MiProyecto0_Tarea5\proyecto.Infrastructure\obj\Debug\net8.0\Foundation.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Porg2 c#\MiProyecto0_Tarea5\proyecto.Infrastructure\obj\Debug\net8.0\Foundation.Infrastructure.sourcelink.json

@@ -1,12 +1,273 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Porg2 c#\\MiProyecto0_Tarea5\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{40A312A7-EA93-4A08-BF88-53BC2787C051}|proyecto.Infrastructure\\Foundation.Infrastructure.csproj|d:\\porg2 c#\\miproyecto0_tarea5\\proyecto.infrastructure\\foundationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40A312A7-EA93-4A08-BF88-53BC2787C051}|proyecto.Infrastructure\\Foundation.Infrastructure.csproj|solutionrelative:proyecto.infrastructure\\foundationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C2B7D77-982F-4136-B31E-9840FEF412A9}|Proyecto.Api\\Foundation.Api.csproj|d:\\porg2 c#\\miproyecto0_tarea5\\proyecto.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4C2B7D77-982F-4136-B31E-9840FEF412A9}|Proyecto.Api\\Foundation.Api.csproj|solutionrelative:proyecto.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C2B7D77-982F-4136-B31E-9840FEF412A9}|Proyecto.Api\\Foundation.Api.csproj|d:\\porg2 c#\\miproyecto0_tarea5\\proyecto.api\\foundation.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{4C2B7D77-982F-4136-B31E-9840FEF412A9}|Proyecto.Api\\Foundation.Api.csproj|solutionrelative:proyecto.api\\foundation.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40A312A7-EA93-4A08-BF88-53BC2787C051}|proyecto.Infrastructure\\Foundation.Infrastructure.csproj|d:\\porg2 c#\\miproyecto0_tarea5\\proyecto.infrastructure\\repositories\\memberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40A312A7-EA93-4A08-BF88-53BC2787C051}|proyecto.Infrastructure\\Foundation.Infrastructure.csproj|solutionrelative:proyecto.infrastructure\\repositories\\memberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40A312A7-EA93-4A08-BF88-53BC2787C051}|proyecto.Infrastructure\\Foundation.Infrastructure.csproj|d:\\porg2 c#\\miproyecto0_tarea5\\proyecto.infrastructure\\repositories\\volunteerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40A312A7-EA93-4A08-BF88-53BC2787C051}|proyecto.Infrastructure\\Foundation.Infrastructure.csproj|solutionrelative:proyecto.infrastructure\\repositories\\volunteerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40A312A7-EA93-4A08-BF88-53BC2787C051}|proyecto.Infrastructure\\Foundation.Infrastructure.csproj|d:\\porg2 c#\\miproyecto0_tarea5\\proyecto.infrastructure\\interfaces\\ivolunteerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40A312A7-EA93-4A08-BF88-53BC2787C051}|proyecto.Infrastructure\\Foundation.Infrastructure.csproj|solutionrelative:proyecto.infrastructure\\interfaces\\ivolunteerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E088FB24-9708-4053-A40C-4D71739FD365}|proyecto.Domain\\Foundation.Domain.csproj|d:\\porg2 c#\\miproyecto0_tarea5\\proyecto.domain\\entities\\volunteer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E088FB24-9708-4053-A40C-4D71739FD365}|proyecto.Domain\\Foundation.Domain.csproj|solutionrelative:proyecto.domain\\entities\\volunteer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40A312A7-EA93-4A08-BF88-53BC2787C051}|proyecto.Infrastructure\\Foundation.Infrastructure.csproj|d:\\porg2 c#\\miproyecto0_tarea5\\proyecto.infrastructure\\repositories\\activityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40A312A7-EA93-4A08-BF88-53BC2787C051}|proyecto.Infrastructure\\Foundation.Infrastructure.csproj|solutionrelative:proyecto.infrastructure\\repositories\\activityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E088FB24-9708-4053-A40C-4D71739FD365}|proyecto.Domain\\Foundation.Domain.csproj|d:\\porg2 c#\\miproyecto0_tarea5\\proyecto.domain\\entities\\activity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E088FB24-9708-4053-A40C-4D71739FD365}|proyecto.Domain\\Foundation.Domain.csproj|solutionrelative:proyecto.domain\\entities\\activity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40A312A7-EA93-4A08-BF88-53BC2787C051}|proyecto.Infrastructure\\Foundation.Infrastructure.csproj|d:\\porg2 c#\\miproyecto0_tarea5\\proyecto.infrastructure\\interfaces\\iactivityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40A312A7-EA93-4A08-BF88-53BC2787C051}|proyecto.Infrastructure\\Foundation.Infrastructure.csproj|solutionrelative:proyecto.infrastructure\\interfaces\\iactivityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E088FB24-9708-4053-A40C-4D71739FD365}|proyecto.Domain\\Foundation.Domain.csproj|d:\\porg2 c#\\miproyecto0_tarea5\\proyecto.domain\\entities\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E088FB24-9708-4053-A40C-4D71739FD365}|proyecto.Domain\\Foundation.Domain.csproj|solutionrelative:proyecto.domain\\entities\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40A312A7-EA93-4A08-BF88-53BC2787C051}|proyecto.Infrastructure\\Foundation.Infrastructure.csproj|d:\\porg2 c#\\miproyecto0_tarea5\\proyecto.infrastructure\\interfaces\\imemberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40A312A7-EA93-4A08-BF88-53BC2787C051}|proyecto.Infrastructure\\Foundation.Infrastructure.csproj|solutionrelative:proyecto.infrastructure\\interfaces\\imemberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E088FB24-9708-4053-A40C-4D71739FD365}|proyecto.Domain\\Foundation.Domain.csproj|d:\\porg2 c#\\miproyecto0_tarea5\\proyecto.domain\\foundation.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E088FB24-9708-4053-A40C-4D71739FD365}|proyecto.Domain\\Foundation.Domain.csproj|solutionrelative:proyecto.domain\\foundation.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16E35589-7E14-4E9F-8A22-FB44CAB34DA6}|proyecto.Web\\Foundation.Web.csproj|d:\\porg2 c#\\miproyecto0_tarea5\\proyecto.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16E35589-7E14-4E9F-8A22-FB44CAB34DA6}|proyecto.Web\\Foundation.Web.csproj|solutionrelative:proyecto.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40A312A7-EA93-4A08-BF88-53BC2787C051}|proyecto.Infrastructure\\Foundation.Infrastructure.csproj|d:\\porg2 c#\\miproyecto0_tarea5\\proyecto.infrastructure\\foundation.infrastructure.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{40A312A7-EA93-4A08-BF88-53BC2787C051}|proyecto.Infrastructure\\Foundation.Infrastructure.csproj|solutionrelative:proyecto.infrastructure\\foundation.infrastructure.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Foundation.Api",
+              "DocumentMoniker": "D:\\Porg2 c#\\MiProyecto0_Tarea5\\Proyecto.Api\\Foundation.Api.csproj",
+              "RelativeDocumentMoniker": "Proyecto.Api\\Foundation.Api.csproj",
+              "ToolTip": "D:\\Porg2 c#\\MiProyecto0_Tarea5\\Proyecto.Api\\Foundation.Api.csproj",
+              "RelativeToolTip": "Proyecto.Api\\Foundation.Api.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-29T21:51:26.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Porg2 c#\\MiProyecto0_Tarea5\\Proyecto.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Proyecto.Api\\appsettings.json",
+              "ToolTip": "D:\\Porg2 c#\\MiProyecto0_Tarea5\\Proyecto.Api\\appsettings.json",
+              "RelativeToolTip": "Proyecto.Api\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-29T21:36:34.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FoundationDbContext.cs",
+              "DocumentMoniker": "D:\\Porg2 c#\\MiProyecto0_Tarea5\\proyecto.Infrastructure\\FoundationDbContext.cs",
+              "RelativeDocumentMoniker": "proyecto.Infrastructure\\FoundationDbContext.cs",
+              "ToolTip": "D:\\Porg2 c#\\MiProyecto0_Tarea5\\proyecto.Infrastructure\\FoundationDbContext.cs",
+              "RelativeToolTip": "proyecto.Infrastructure\\FoundationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T21:33:06.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VolunteerRepository.cs",
+              "DocumentMoniker": "D:\\Porg2 c#\\MiProyecto0_Tarea5\\proyecto.Infrastructure\\Repositories\\VolunteerRepository.cs",
+              "RelativeDocumentMoniker": "proyecto.Infrastructure\\Repositories\\VolunteerRepository.cs",
+              "ToolTip": "D:\\Porg2 c#\\MiProyecto0_Tarea5\\proyecto.Infrastructure\\Repositories\\VolunteerRepository.cs",
+              "RelativeToolTip": "proyecto.Infrastructure\\Repositories\\VolunteerRepository.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAowDQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T21:25:50.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IVolunteerRepository.cs",
+              "DocumentMoniker": "D:\\Porg2 c#\\MiProyecto0_Tarea5\\proyecto.Infrastructure\\Interfaces\\IVolunteerRepository.cs",
+              "RelativeDocumentMoniker": "proyecto.Infrastructure\\Interfaces\\IVolunteerRepository.cs",
+              "ToolTip": "D:\\Porg2 c#\\MiProyecto0_Tarea5\\proyecto.Infrastructure\\Interfaces\\IVolunteerRepository.cs",
+              "RelativeToolTip": "proyecto.Infrastructure\\Interfaces\\IVolunteerRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T21:21:26.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Volunteer.cs",
+              "DocumentMoniker": "D:\\Porg2 c#\\MiProyecto0_Tarea5\\proyecto.Domain\\Entities\\Volunteer.cs",
+              "RelativeDocumentMoniker": "proyecto.Domain\\Entities\\Volunteer.cs",
+              "ToolTip": "D:\\Porg2 c#\\MiProyecto0_Tarea5\\proyecto.Domain\\Entities\\Volunteer.cs",
+              "RelativeToolTip": "proyecto.Domain\\Entities\\Volunteer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T21:19:13.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MemberRepository.cs",
+              "DocumentMoniker": "D:\\Porg2 c#\\MiProyecto0_Tarea5\\proyecto.Infrastructure\\Repositories\\MemberRepository.cs",
+              "RelativeDocumentMoniker": "proyecto.Infrastructure\\Repositories\\MemberRepository.cs",
+              "ToolTip": "D:\\Porg2 c#\\MiProyecto0_Tarea5\\proyecto.Infrastructure\\Repositories\\MemberRepository.cs",
+              "RelativeToolTip": "proyecto.Infrastructure\\Repositories\\MemberRepository.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAowDMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T21:14:02.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IMemberRepository.cs",
+              "DocumentMoniker": "D:\\Porg2 c#\\MiProyecto0_Tarea5\\proyecto.Infrastructure\\Interfaces\\IMemberRepository.cs",
+              "RelativeDocumentMoniker": "proyecto.Infrastructure\\Interfaces\\IMemberRepository.cs",
+              "ToolTip": "D:\\Porg2 c#\\MiProyecto0_Tarea5\\proyecto.Infrastructure\\Interfaces\\IMemberRepository.cs",
+              "RelativeToolTip": "proyecto.Infrastructure\\Interfaces\\IMemberRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T21:13:17.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Member.cs",
+              "DocumentMoniker": "D:\\Porg2 c#\\MiProyecto0_Tarea5\\proyecto.Domain\\Entities\\Member.cs",
+              "RelativeDocumentMoniker": "proyecto.Domain\\Entities\\Member.cs",
+              "ToolTip": "D:\\Porg2 c#\\MiProyecto0_Tarea5\\proyecto.Domain\\Entities\\Member.cs",
+              "RelativeToolTip": "proyecto.Domain\\Entities\\Member.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T21:11:25.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ActivityRepository.cs",
+              "DocumentMoniker": "D:\\Porg2 c#\\MiProyecto0_Tarea5\\proyecto.Infrastructure\\Repositories\\ActivityRepository.cs",
+              "RelativeDocumentMoniker": "proyecto.Infrastructure\\Repositories\\ActivityRepository.cs",
+              "ToolTip": "D:\\Porg2 c#\\MiProyecto0_Tarea5\\proyecto.Infrastructure\\Repositories\\ActivityRepository.cs",
+              "RelativeToolTip": "proyecto.Infrastructure\\Repositories\\ActivityRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T21:09:56.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IActivityRepository.cs",
+              "DocumentMoniker": "D:\\Porg2 c#\\MiProyecto0_Tarea5\\proyecto.Infrastructure\\Interfaces\\IActivityRepository.cs",
+              "RelativeDocumentMoniker": "proyecto.Infrastructure\\Interfaces\\IActivityRepository.cs",
+              "ToolTip": "D:\\Porg2 c#\\MiProyecto0_Tarea5\\proyecto.Infrastructure\\Interfaces\\IActivityRepository.cs",
+              "RelativeToolTip": "proyecto.Infrastructure\\Interfaces\\IActivityRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T20:58:26.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Activity.cs",
+              "DocumentMoniker": "D:\\Porg2 c#\\MiProyecto0_Tarea5\\proyecto.Domain\\Entities\\Activity.cs",
+              "RelativeDocumentMoniker": "proyecto.Domain\\Entities\\Activity.cs",
+              "ToolTip": "D:\\Porg2 c#\\MiProyecto0_Tarea5\\proyecto.Domain\\Entities\\Activity.cs",
+              "RelativeToolTip": "proyecto.Domain\\Entities\\Activity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T20:28:03.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Foundation.Domain",
+              "DocumentMoniker": "D:\\Porg2 c#\\MiProyecto0_Tarea5\\proyecto.Domain\\Foundation.Domain.csproj",
+              "RelativeDocumentMoniker": "proyecto.Domain\\Foundation.Domain.csproj",
+              "ToolTip": "D:\\Porg2 c#\\MiProyecto0_Tarea5\\proyecto.Domain\\Foundation.Domain.csproj",
+              "RelativeToolTip": "proyecto.Domain\\Foundation.Domain.csproj",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-29T20:27:57.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Porg2 c#\\MiProyecto0_Tarea5\\proyecto.Web\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "proyecto.Web\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Porg2 c#\\MiProyecto0_Tarea5\\proyecto.Web\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "proyecto.Web\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T12:38:53.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Foundation.Infrastructure",
+              "DocumentMoniker": "D:\\Porg2 c#\\MiProyecto0_Tarea5\\proyecto.Infrastructure\\Foundation.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "proyecto.Infrastructure\\Foundation.Infrastructure.csproj",
+              "ToolTip": "D:\\Porg2 c#\\MiProyecto0_Tarea5\\proyecto.Infrastructure\\Foundation.Infrastructure.csproj",
+              "RelativeToolTip": "proyecto.Infrastructure\\Foundation.Infrastructure.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-29T11:39:13.132Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
